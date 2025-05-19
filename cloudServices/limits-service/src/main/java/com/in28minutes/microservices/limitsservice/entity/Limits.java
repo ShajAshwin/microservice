@@ -1,5 +1,8 @@
 package com.in28minutes.microservices.limitsservice.entity;
 
+import lombok.Data;
+
+
 public class Limits {
 
     private int minimum;
