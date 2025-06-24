@@ -1,0 +1,5 @@
+This is a spring cloud common config microservice model
+
+1)Limit-service is a micro service
+2)spring-cloud-config-server is a MS with spring common config details
+3)git-localconfig-repo is a the repo where all the common properties are added
